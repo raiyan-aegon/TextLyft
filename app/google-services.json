@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41878174215",
+    "firebase_url": "https://textlyft-34c67.firebaseio.com",
+    "project_id": "textlyft-34c67",
+    "storage_bucket": "textlyft-34c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41878174215:android:e476b8460f6a3ea29e08a2",
+        "android_client_info": {
+          "package_name": "com.mukhtarinc.textlyft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41878174215-1jobq8fmu2fth7bnkgcni0n50nfp4q07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uMfXUIM5-qZd2IV9Mpvbq4M5zkknLHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41878174215-1jobq8fmu2fth7bnkgcni0n50nfp4q07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
